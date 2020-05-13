@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaraMonteiro_s00185743", "ClaraMonteiro_s00185743\ClaraMonteiro_s00185743.csproj", "{AEBBE84D-E859-453C-9ACF-F581A5707EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManegement", "DataManegement\DataManegement.csproj", "{EF4FEC78-6874-4979-8980-4F5406FE2BED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{6E0E6DF4-E265-4A5D-B26B-CB273145A833}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\images\images\android.png = ..\..\Downloads\images\images\android.png
+		..\..\Downloads\images\images\apple.png = ..\..\Downloads\images\images\apple.png
+		..\..\Downloads\images\images\iphone11.png = ..\..\Downloads\images\images\iphone11.png
+		..\..\Downloads\images\images\s20.jpg = ..\..\Downloads\images\images\s20.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBBE84D-E859-453C-9ACF-F581A5707EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBBE84D-E859-453C-9ACF-F581A5707EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBBE84D-E859-453C-9ACF-F581A5707EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBBE84D-E859-453C-9ACF-F581A5707EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4FEC78-6874-4979-8980-4F5406FE2BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4FEC78-6874-4979-8980-4F5406FE2BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4FEC78-6874-4979-8980-4F5406FE2BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4FEC78-6874-4979-8980-4F5406FE2BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE211E29-C853-4521-93D3-79C264B2CB25}
+	EndGlobalSection
+EndGlobal
